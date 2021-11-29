@@ -1,0 +1,20 @@
+\\192.168.0.245\share student$\Desktop Student$\Горохов Никита\Рабочий стол\Задание\Snake\Snake\bin\Debug\Snake.exe.config
+\\192.168.0.245\share student$\Desktop Student$\Горохов Никита\Рабочий стол\Задание\Snake\Snake\bin\Debug\Snake.exe
+\\192.168.0.245\share student$\Desktop Student$\Горохов Никита\Рабочий стол\Задание\Snake\Snake\bin\Debug\Snake.pdb
+\\192.168.0.245\share student$\Desktop Student$\Горохов Никита\Рабочий стол\Задание\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+\\192.168.0.245\share student$\Desktop Student$\Горохов Никита\Рабочий стол\Задание\Snake\Snake\obj\Debug\Snake.Form1.resources
+\\192.168.0.245\share student$\Desktop Student$\Горохов Никита\Рабочий стол\Задание\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+\\192.168.0.245\share student$\Desktop Student$\Горохов Никита\Рабочий стол\Задание\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+\\192.168.0.245\share student$\Desktop Student$\Горохов Никита\Рабочий стол\Задание\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+\\192.168.0.245\share student$\Desktop Student$\Горохов Никита\Рабочий стол\Задание\Snake\Snake\obj\Debug\Snake.exe
+\\192.168.0.245\share student$\Desktop Student$\Горохов Никита\Рабочий стол\Задание\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\user\Downloads\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\user\Downloads\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\user\Downloads\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\user\Downloads\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\user\Downloads\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\user\Downloads\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\user\Downloads\Snake\Snake\obj\Debug\Snake.pdb
